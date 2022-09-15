@@ -16,4 +16,4 @@ git clone https://github.com/Alienrazor/F7
 
 cd F7
 
-python F7.py
+python2 F7.py
